@@ -1,6 +1,6 @@
 # test-repo-for-git-diff
 used to check how to read diff from repo
-```json
+```yaml
 topic
 -topics
   test-schema:schema
