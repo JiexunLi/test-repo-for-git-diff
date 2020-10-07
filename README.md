@@ -2,6 +2,6 @@
 used to check how to read diff from repo
 ```yaml
 topic
-  - topics
+  - topics:example.topic
     test-schema:schema
 ```
